@@ -1,3 +1,6 @@
+html,body{
+    margin:0px;
+}
 #main{
     background:url("./images/sunset-4926468_640.png");
     height:400px;
