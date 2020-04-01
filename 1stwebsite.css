@@ -95,6 +95,7 @@ button{
     font-size: 20px;
     padding:20px;
     padding-top: 0px;
+    padding-bottom: 0px;
     line-height: 25px;
     font-family: 'Pacifico', cursive;
     font-family: 'Comic Neue', cursive;
@@ -113,5 +114,5 @@ blockquote{
     list-style-type: square;
 }
 #lastpar{
-    margin-top: -20px;
+    margin-top: 0px;
 }
